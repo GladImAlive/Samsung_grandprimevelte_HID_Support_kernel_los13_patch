@@ -12,3 +12,6 @@ patch -p1 < hid_support_patch_los13.patch
 ```
 
 this one applies for the Lineage 13.0 ROM
+
+
+Thanks to Shubzz-02 for the amazing work!
